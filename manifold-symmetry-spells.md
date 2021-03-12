@@ -284,7 +284,7 @@ These are only the most basic enriched manifolds. In later chapters we will begi
 
 ### Chapter ◧ ∙ _An Introduction to Metamagic_
 
-Metamagic is sometimes considered the foundation of our field. Early Rationalist mages discovered the principles of casting and various compositions of effects, but it was the metamages who gave these compositions names and repeatable forms such that they could be recorded and taught. Metamagic is itself a rich field of study, discussed in later volumes, but its most common primitives are _bind_ and _quickbind_, which create new types of spells by combinations of existing effects. Metamages capable of mastering these spells are uncommon.
+Metamagic is sometimes considered the foundation of our field. It is one thing to uncover the principles of casting and various compositions of effects, but metamages give these compositions names and repeatable forms such that they can be recorded and taught. Metamagic is itself a rich field of study, discussed in later volumes, but its most common primitives are _bind_ and _quickbind_, which create new types of spells by combinations of existing effects. Metamages capable of mastering these spells are uncommon.
 
 <a id="bind"></a>
 <details><summary>📖 <b>Bind : </b> Bind records a new spell from any sequence of N turns you can take alone.</summary>
@@ -296,7 +296,7 @@ When cast, at most once per day, choose a name for the bound spell; the new spel
 <a id="quickbind"></a>
 <details><summary>📖 <b>Quickbind : </b> Like <a href="#bind">Bind</a>, but succeeds only on d20 >= 15, and the resulting spell executes in a single turn.</summary>
 
-After each usage of the created spell, roll a d20 >= 10 or else unprepare the spell. This is an exceedingly difficult <a href="#learn-spell">spell to learn</a>. ⬠
+After each usage of the created spell, roll a d20 >= 10 or else unprepare the spell. This is an exceedingly difficult <a href="#learn-spell">spell to learn</a>. Spells created with quickbind cannot be shared with other mages. ⬠
 </details>
 
-Desipite its limitations, the use of [Quickbind](#quickbind) fundamentally alters the nature of both open and complex plane contests. Powerful compositions that would require excessive casting times become available for immediate use, altering the landscape of strategies and invalidating most opening books. The study of  Ȇ̴̟̟͙̞ͩ͌͝S̨̥̫͎̭ͯ̿̔̀ͅ ̶̧̨̱̹̭̯ͧ̾ͬ*̶͑̾̾​̅ͫ͏̙̤jl͖͉̗̩̳̟̍ͫͥͨe̠̅M̲̖͊̒ͪͩͬ̚̚͜ZuA̡͊͠͝H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘u ͎ è̑ͧ̌t xè̑ͧ̌aͨl̘̝̙̃ͤ͂̾̆ ​̅ͫ͏̙̤xr̽̾̈́͒͑Sͮ̂҉̯͈͕̹̘̱ LO͇̹̺ͅY̡C̷̙̲̝͖ͭ̏ͥͮ͟
+Desipite its limitations, the use of [Quickbind](#quickbind) fundamentally alters the nature of both open and complex plane contests. Powerful compositions that would require excessive casting times become available for immediate use, altering the landscape of strategies and invalidating most opening books. The study of  Ȇ̴̟̟͙̞ͩ͌͝S̨̥̫͎̭ͯ̿̔̀ͅ ̶̧̨̱̹̭̯ͧ̾ͬ*̶͑̾̾​̅ͫ͏̙̤jl͖͉̗̩̳̟̍ͫͥͨe̠̅M̲̖͊̒ͪͩͬ̚̚͜ZuA̡͊͠͝H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘u ͎ è̑ͧ̌t xè̑ͧ̌aͨl̘̝̙̃ͤ͂̾̆ ​̅ͫ͏̙̤xr̽̾̈́͒͑Sͮ̂҉̯͈͕̹̘̱ O͇̹̺ͅC̷̙̲̝͖ͭ̏ͥͮ͟
