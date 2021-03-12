@@ -1,20 +1,8 @@
 # Coevolution: a role-playing system
 
-This document describes Coevolution, a role-playing system. The basic rules fit on a page and can be learned in 5 minutes, but are designed to generate endlessly varied emergent gameplay that rewards creativity. The system is generic and can be adapted to a variety of settings (fantasy, cyberpunk, space opera...), but for this writeup we'll describe the rules using a fantasy universe. See notes at the end for applying Coevolution to other universes.
+This document describes Coevolution, a role-playing system. The basic rules fit on a page and can be learned in 5 minutes, but are designed to generate varied emergent gameplay that rewards creativity. The system is generic and can be adapted to a variety of settings (fantasy, cyberpunk, space opera...), but for this writeup we'll describe the rules using a fantasy universe. See notes at the end for applying Coevolution to other universes.
 
 _Coevolution is currently being alpha-tested. Feedback, ideas, and contributions are encouraged!_
-
-In Coevolution, like other role-playing systems, players assume the roles of fictional characters in an imaginary world. A Gamemaster (GM) narrates events in this world, players decide how they'd like to respond, and outcomes of player actions are determined according to rules (or GM judgement, in situations where the rules don't specify). For instance, here's a short segment from a session:
-
-> Ned and Kaitlyn (the players) are mages on contract from a mysterious client to steal an artifact believed to be held in the vaults underneath the manor of a local minister. The two thieves aren't sure what the artifact is and have some questions about the client, but the client made them an offer they couldn't refuse: if they return with the artifact (a green crystal of some sort), they'll be given an hour of access to a legendary spellbook.
->
-> GM: As you continue along the dark passageway, you notice the path ahead makes a left turn. A soft purplish light is coming from around the corner. What would you like to do?
->
-> Ned: Oooh, that could be the entrance to the vaults we were told about.
->
-> Kaitlyn: Hmm, there might be a guard. Can we just poke our head around the corner and take a look?
->
-> GM: You could try that... but I'll say that if there's someone nearby who happens to be looking in that direction, they'll detect you on with 50/50 odds and we'll roll for it. What would you like to do?
 
 __Contents:__
 
@@ -23,12 +11,26 @@ __Contents:__
 * [Rationale](#rationale): Why are the rules designed this way, and what are they hoping to achieve?
 * [Universes that use Coevolution](#universes): Player guides for different universes and how to get started.
 
+In Coevolution, like other role-playing systems, players assume the roles of fictional characters in an imaginary world. A gamemaster (GM) narrates events in this world, players ask questions and decide how they'd like to respond, and outcomes of player actions are determined according to rules (or GM judgement, in situations where the rules don't specify). For instance, here's a short segment from a session:
+
+> Ned and Kaitlyn (the players) are mages on contract from a mysterious client to steal an artifact believed to be held in the vaults underneath the manor of a local minister. The two thieves aren't sure what the artifact is and have some questions about the client, but the client made them an offer they couldn't refuse: if they return with the artifact (a green crystal of some sort), they'll be given an hour of access to a legendary spellbook.
+>
+> GM: As you continue along the dark passageway, you notice the path ahead makes a left turn. A soft purple light is coming from around the corner. What would you like to do?
+>
+> Ned: Oooh, that could be the entrance to the vault we were told about.
+>
+> Kaitlyn: Hmm, there might be a guard. Can we just poke our head around the corner and take a look?
+>
+> GM: You could try that... but I'll say that if there's someone nearby who happens to be looking in that direction, they'll detect you on with 50/50 odds and we'll roll for it. What would you like to do?
+
+In more time-sensitive situations, such as combat, the gameplay is more structured and relies more on Coevolution's small set of rules, introduced next.
+
 <a id="rules"></a>
 ## The rules
 
 You can prepare up to 5 spells and hold 2 items, one in each hand. Items in your hands and prepared spells are ready for immediate use. In your pack, you always keep a spell book and up to 25 tiny items (marble sized) and 5 small items (can be held in one hand). Items in your pack can be fetched in a single turn, and you can take a turn to prepare a spell you know (details below). The limits on prepared spells and items, and the time required to fetch other items or prepare other spells generates some of the interesting player decisionmaking in this system, especially during time-sensitive situations such as combat or in planning before combat begins.
 
-While adventuring, you’ll find artifacts (such as spell scrolls or other spell books) that describe specific spells and how to cast them. You can use 5 minutes to record a spell into your spell book from an artifact. A recorded spell can't be cast yet. It must first be _learned_ (or "known"), and then _prepared_. Each night, you can learn up to 3 spells from your spell book. Over time, you can learn any number of spells, but for every 5 spells you learn, you must choose to forget 1 (it can be relearned from its recorded form). This encourages some character specialization without making decisions permanent.
+While adventuring, you’ll find artifacts (such as spell scrolls or other spell books) that describe specific spells and how to cast them. You can use 5 minutes to record a spell into your spell book from an artifact. A recorded spell can't be cast yet. It must first be _learned_, and then _prepared_. Each night, you can learn up to 3 spells from your spell book. Over time, you can learn any number of spells, but for every 5 spells you learn, you must choose to forget 1 (it can be relearned from its recorded form). This encourages some character specialization without making decisions permanent.
 
 During combat or other time-sensitive situations (which the GM will make clear), you can move a short distance and do one of the following:
 
@@ -55,7 +57,7 @@ Other than item mechanics and spell behaviors given in descriptions, any other w
 
 All players start with a beginner set of spells and items (set by the GM) and a number of spells and items.
 
-We'll now give some example sessions using these rules. You can skip to [the rationale](#rationale) behind these rules, or jump to reading about [Manifold Symmetry](manifold-symmetry.md), the first game universe using the Coevolution system.
+We'll now give some example sessions using these rules. You can skip to [the rationale](#rationale) behind these rules, or jump to reading about [Manifold Symmetry](manifold-symmetry.md), the first game universe built with the Coevolution system.
 
 <a id="examples"></a>
 ## Example sessions
@@ -68,7 +70,6 @@ Contents:
 * [Tactical combat 1](#tactics1), against a horde of enemies
 * 🏗 Tactical combat 2, against a pair of intelligent, well-trained spellcasters
 * 🏗 Political intrigue
-* 🏗 Assasination
 
 <a id="stealth"></a>
 ### Stealth combat
