@@ -4,7 +4,9 @@ This document describes Coevolution, a role-playing system. The basic rules fit 
 
 _Coevolution is currently being alpha-tested. Feedback, ideas, and contributions are encouraged!_
 
-> Ned and Kaitlyn (the players) are mages on contract from a mysterious client to steal an artifact believed to be held in the vaults underneath the manor of a local minister. The two thieves aren't sure what the artifact is and have some questions about the client, but the client made them an offer they couldn't refuse: if they return with the artifact (a green orb of some sort), they'll be given an hour of access to a legendary spellbook.
+In Coevolution, like other role-playing systems, players assume the roles of fictional characters in an imaginary world. A Gamemaster (GM) narrates events in this world, players decide how they'd like to respond, and outcomes of player actions are determined according to rules (or GM judgement, in situations where the rules don't specify). For instance, here's a short segment from a session:
+
+> Ned and Kaitlyn (the players) are mages on contract from a mysterious client to steal an artifact believed to be held in the vaults underneath the manor of a local minister. The two thieves aren't sure what the artifact is and have some questions about the client, but the client made them an offer they couldn't refuse: if they return with the artifact (a green crystal of some sort), they'll be given an hour of access to a legendary spellbook.
 >
 > GM: As you continue along the dark passageway, you notice the path ahead makes a left turn. A soft purplish light is coming from around the corner. What would you like to do?
 >
@@ -13,8 +15,6 @@ _Coevolution is currently being alpha-tested. Feedback, ideas, and contributions
 > Kaitlyn: Hmm, there might be a guard. Can we just poke our head around the corner and take a look?
 >
 > GM: You could try that... but I'll say that if there's someone nearby who happens to be looking in that direction, they'll detect you on with 50/50 odds and we'll roll for it. What would you like to do?
-
-In Coevolution, like other role-playing systems, players assume the roles of fictional characters in an imaginary world. A Gamemaster (GM) narrates events in this world, players decide how they'd like to respond, and outcomes of player actions are determined according to rules (or GM judgement, in situations where the rules don't specify).
 
 __Contents:__
 
@@ -37,7 +37,7 @@ During combat or other time-sensitive situations (which the GM will make clear),
 * Concentrate to prepare a single spell that you already know. If you already have 5 spells prepared, choose one to unprepare.
 * Take an item from your pack and hold it in a free hand, or swap the item in one hand for an item in your pack.
 
-These actions take a few seconds of in-world time. When it matters, distances to some position are kept abstract and described in terms of the number of turns it would require to reach that position. ("The door to the next room is a medium distance away from you; it will take two turns to get there. Do you want to run for it or stand and fight?")
+These actions take a few seconds of in-world time. When it matters, distances to some position are kept abstract and described in terms of the number of turns it would require to reach that position. ("The door to the next room is a medium distance away from you; it will take two turns to get there. Do you want to run for it or stand and fight?") For more structured situations like combat, a grid is sometimes used to keep track of positions and distances.
 
 Outside of time sensitive situations, you can move and take actions more freely.
 
@@ -53,7 +53,7 @@ Spells and items will generally have a compositional structure, allowing them to
 
 Other than item mechanics and spell behaviors given in descriptions, any other world mechanics will be determined by the GM. Generally, any action that seems reasonable for the setting should yield some plausible result.
 
-All players start with a beginner spell book and items which are determined by the universe (set by the GM) and a number of spells and items.
+All players start with a beginner set of spells and items (set by the GM) and a number of spells and items.
 
 We'll now give some example sessions using these rules. You can skip to [the rationale](#rationale) behind these rules, or jump to reading about [Manifold Symmetry](manifold-symmetry.md), the first game universe using the Coevolution system.
 
@@ -147,7 +147,7 @@ _Ned:_ Yes! I've got a couple small fire crystals in my pack. So on first turn, 
 
 _Kaitlyn:_ What if we miss the roll to grow the fire manifold?
 
-_Ned:_ Then we're toast. And also, not all these things are going to ignite necessarily. It's d20 >= 7 for that. Even if only a dozen make it through, we'd be overwhelmed. And who's to say they'll just mindlessly march into the flames? Maybe they'll just wait until the fire winks out and then come in and devour us.
+_Ned:_ Hmm... then we're toast. And also, not all these things are going to ignite necessarily. It's d20 >= 7 for that. Even if only a dozen make it through, we'd be overwhelmed. And who's to say they'll just mindlessly march into the flames? Maybe they'll just wait until the fire winks out and then come in and devour us.
 
 _Kaitlyn:_ Yeah, I don't like this plan. We can't just hang out here and hope for the best. It'd be a lot easier to deal with them in single file, in the tunnel we entered from. Could we make a run for it?
 
